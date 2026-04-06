@@ -8,7 +8,9 @@
 💼 Open to Data Analyst opportunities
 
 
-  ## 📊 GitHub Stats
+## 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Chethan-GM123)
+![GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Chethan-GM123\&show_icons=true)
+
+
 
