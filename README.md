@@ -12,5 +12,10 @@
 
 ![GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Chethan-GM123\&show_icons=true)
 
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Chethan-GM123\&layout=compact)
+
+![Streak](https://streak-stats.demolab.com?user=Chethan-GM123)
+
+
 
 
