@@ -1,6 +1,6 @@
   # Hi,👋 I'm Chethan G M
 
-  **A passionate Data Analyst & Data Science enthusiast from India**                                                        
+  **A passionate about Data Analyst & Data Science enthusiast from India**                                                        
 
 📊 Skilled in Python, SQL, Power BI<br>📈 Strong in Data Analysis & Machine Learning<br>🧠 Experienced in EDA, Data Cleaning & Visualization<br>🚀 Built real-world projects (Churn Prediction, etc.)<br>💼 Open to Data Analyst opportunities
 
